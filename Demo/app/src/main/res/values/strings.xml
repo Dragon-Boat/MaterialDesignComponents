@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">MaterialDesingComponents</string>
+    <string name="item_1">Item_1</string>
+    <string name="item_2">item_2</string>
+    <string name="item_3">item_3</string>
+    <string name="item_4">item_4</string>
+    <string name="name_navi">Android</string>
+    <string name="open_string">open</string>
+    <string name="close_string">close</string>
+    <string name="action_settings">设置</string>
+    <string name="fragment_1">Fragment_1</string>
+    <string name="fragment_2">Fragment_2</string>
+    <string name="fragment_3">Fragment_3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="qyqx">千与千寻</string>
+    <string name="story_qyqx">
+        年仅10岁的荻野千寻是一个看起来非常普通的四年级小学生，她随父母搬家来到一个陌生的城镇准备开始一个全新的生活。
+　　然而，因为途中迷路，她和父母误闯入了一个人类不应该进入的灵异小镇。
+        </string>
 </resources>

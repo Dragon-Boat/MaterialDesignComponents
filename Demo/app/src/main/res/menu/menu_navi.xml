@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Item_1"
+            android:title="@string/item_1"
+            android:icon="@drawable/item_navi_selector"/>
+        <item
+            android:id="@+id/Item_2"
+            android:title="@string/item_2"
+            android:icon="@drawable/item_navi_selector"/>
+        <item
+            android:id="@+id/Item_3"
+            android:title="@string/item_3"
+            android:icon="@drawable/item_navi_selector"/>
+        <item
+            android:id="@+id/Item_4"
+            android:title="@string/item_4"
+            android:icon="@drawable/googleplus"/>
+    </group>
+
+</menu>
